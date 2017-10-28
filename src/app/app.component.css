@@ -2,3 +2,10 @@
     background-color:#a5fd18;
     color: rgb(0, 0, 0);
 }
+.btn_show{
+    background-color:#eeeeee;
+    color: black;
+    background-color: gray;
+    display: block;
+    
+}
